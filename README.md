@@ -44,7 +44,7 @@ Bu süreçte başlıklar, liste oluşturma, emmetler, link atama, yazı/sayfa d�
             <li style="color: darkgreen;">Kitap</li>
             <ol type="I">
                         <li>Aşk-ı Memnu</li>
-                        <li>Araba Sevdası</li>Z
+                        <li>Araba Sevdası</li>
                         <li>Küçük Ağa</li>
             </ol>
  </ol>
